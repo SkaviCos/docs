@@ -3,7 +3,7 @@
 ### Разделы   	
 1. [page-factory](https://github.com/sbtqa/docs/wiki/Page-Factory)
 2. [api-factory]()
-3. [datajack]()
+3. [datajack](https://github.com/sbtqa/docs/wiki/DataJack)
 
 ### Контакты  
 Нашли ошибку в документации или появились вопросы? [Проверьте](https://github.com/sbtqa/docs/issues) не создано ли уже issue и если нет то создайте [новое issue](https://github.com/sbtqa/docs/issues/new)!
