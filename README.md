@@ -8,4 +8,4 @@
 3. [datajack](https://github.com/sbtqa/docs/wiki/DataJack)
 
 ### Контакты  
-Нашли ошибку в документации или появились вопросы? [Проверьте](https://github.com/sbtqa/docs/issues) не создано ли уже issue и если нет то создайте [новое issue](https://github.com/sbtqa/docs/issues/new)! Также свои вопросы можно задать в нашем чате в [gitter](https://gitter.im/sbtqa-tag/Lob
+Нашли ошибку в документации или появились вопросы? [Проверьте](https://github.com/sbtqa/docs/issues) не создано ли уже issue и если нет то создайте [новое issue](https://github.com/sbtqa/docs/issues/new)! Также свои вопросы можно задать в нашем чате в [gitter](https://gitter.im/sbtqa-tag/Lobby)
