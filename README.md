@@ -4,7 +4,7 @@
 В данном проекте содержится документация для продуктов SBTQA.  
 ### Разделы   	
 1. [page-factory](https://github.com/sbtqa/docs/wiki/Page-Factory)
-2. [api-factory]()
+2. [api-factory](https://github.com/sbtqa/docs/wiki/Api-Factory)
 3. [datajack](https://github.com/sbtqa/docs/wiki/DataJack)
 
 ### Контакты  
